@@ -1,0 +1,25 @@
+{
+    "name": "Mi PWA",
+    "short_name": "Mi PWA",
+    "icons": [{
+        "src": "./img/196.png",
+        "sizes": "196x196",
+        "type": "image/png"
+      }, {
+        "src": "./img/216.png",
+        "sizes": "216x216",
+        "type": "image/png"
+      }, {
+        "src": "./img/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }, {
+        "src": "./img/1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }],
+    "start_url": "./index.php",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF"
+  }
